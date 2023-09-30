@@ -1,6 +1,6 @@
 package lc.algo.booking;
 
-import algo.Util;
+import lc.algo.Util;
 
 import java.util.ArrayDeque;
 import java.util.ArrayList;
